@@ -50,7 +50,7 @@ const CSRSection: React.FC = () => {
           <div className="relative">
              <div className="rounded-2xl overflow-hidden shadow-2xl relative z-10 aspect-[4/3] group cursor-default">
                 <img
-                  src="CSR-Section/Creating-Sustainable-Impact-15.png"
+                  src="Milestone-section/2021.jpg"
                   alt="CSR Community Initiative"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
